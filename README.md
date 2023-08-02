@@ -23,7 +23,7 @@ My name's Hanna and I'm an iOS developer👋. I like emojis, music, digital draw
 <img src="https://i.imgur.com/HrAVl41.png" width="200" alt="BabyClimate app">
 </p>
 
-<i>Swift, SwiftUI, MVVM, weather API</i>
+<i>Swift, SwiftUI, MVVM, weather API, CoreLocation</i>
 
 # [BabyGrowthGuru](https://apps.apple.com/us/app/babygrowthguru/id6455684008) 
 <p align="left"> <a href="https://apps.apple.com/us/app/babygrowthguru/id6455684008" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >  
